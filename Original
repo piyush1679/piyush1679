@@ -1,2 +1,2 @@
-git remote set-url origin https://github.com
+git remote set-url origin https://github.com/testrepo.git
 git pull
